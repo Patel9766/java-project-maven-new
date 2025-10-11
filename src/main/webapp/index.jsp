@@ -21,7 +21,7 @@
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
-            <li class="nav-items"><a href="#">WebShows</a></li>
+            <li class="nav-items"><a href="#">DNA</a></li>
             <li class="nav-items"><a href="#">Movies</a></li>
             <li class="nav-items"><a href="#">Sports</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
@@ -33,6 +33,7 @@
             <input type="text" class="search-box" placeholder="search">
             <button class="sub-btn">Subscribe</button>
             <a href="#" class="login-link">login</a>
+             <a href="#" class="login-link">logout</a>
         </div>
     </nav>
 
